@@ -15,6 +15,7 @@ To write a python program to find the rank of a matrix
 #### Program to find the rank of a matrix.
 #### Developed by: viswanadham venkata sai sruthi
 #### RegisterNumber: 212223100061
+
 ```
 import numpy as np
 a=np.array([[1,2,3],[3,6,9]])
